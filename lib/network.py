@@ -48,7 +48,6 @@ DEFAULT_PORTS = {'t':'50001', 's':'50002', 'h':'8081', 'g':'8082'}
 
 DEFAULT_SERVERS = {
     'electrumx1.cryptoescudo.eu': DEFAULT_PORTS,
-    'electrum1.cryptoescudo.com.br': {'t':'40001', 's':'40002'},
     'electrum1.cryptoescudo.org': DEFAULT_PORTS,
     'electrum2.cryptoescudo.org': DEFAULT_PORTS,
     'electrum3.cryptoescudo.org': DEFAULT_PORTS,
