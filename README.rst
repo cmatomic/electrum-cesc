@@ -36,7 +36,7 @@ Development version
 
 Check out the code from Github::
 
-    git clone git://github.com/Marcdnd/electrum-cesc.git
+    git clone git://github.com/cmatomic/electrum-cesc.git
     cd electrum-cesc
 
 Run install (this should install dependencies)::
